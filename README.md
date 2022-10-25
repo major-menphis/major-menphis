@@ -3,11 +3,18 @@
 <p>Olá, meu nome é Giuliano Gonçalves Gomez e o meu apelido é "major menphis", lê-se "major menfis" (caso queira saber a pronúncia), mas você pode me chamar como quiser, eu sou um cara introvertido mesmo, sou um profissional muito focado e gosto de terminar o que começo, sempre digo... -Me larga que eu quero produzir! Se quiser conhecer meu trabalho acesse o meu perfil em outras redes e acompanhe, não vai se arrepender. Então me diga, em que posso lhe ser útil hoje?</p>
 <h2>Minhas habilidades</h2>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height='80' width='80'/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height='80' width='80'/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height='80' width='80'/>
 </div>
 <h2>IDE's que utilizo</h2>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='80' width='80'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" height='80' width='80'/>
 </div>
 <h2>Minhas métricas</h2>
 <div>
@@ -16,10 +23,10 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=major-menphis&show_icons=true&hide_border=true&theme=merko)
 </div>
 <div>
-<img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/167356a8-188a-4c9f-976f-a6b5f5075c5f.svg" width='50%'><img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/016a1fa8-7930-45c9-9f92-9f9d641ddd51.svg" width='50%'>
+  <img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/167356a8-188a-4c9f-976f-a6b5f5075c5f.svg" width='50%'><img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/016a1fa8-7930-45c9-9f92-9f9d641ddd51.svg" width='50%'>
 </div>
 <div>
-<img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/223e620b-03ec-4c18-93d6-1cc6338e3231.svg" width='50%'><img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/9511f224-1f0f-4dc8-9043-384f38dcae73.svg" width='50%'>
+  <img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/223e620b-03ec-4c18-93d6-1cc6338e3231.svg" width='50%'><img src="https://wakatime.com/share/@80969d42-1761-48ee-940b-0b1bcabf0f9d/9511f224-1f0f-4dc8-9043-384f38dcae73.svg" width='50%'>
 </div>
 <h2>Minhas redes e contatos</h2>
 <div>
