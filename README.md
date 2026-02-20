@@ -1,6 +1,6 @@
 ![matrix](https://user-images.githubusercontent.com/91923874/172278665-90978115-8d4d-4bbd-908d-8d50d463107e.png)
 <h1>Sejam bem vindo Dev!</h1>
-<p>Olá, meu nome é Giuliano Gonçalves Gomez, minha formação em ciência de dados está prevista para 2025, sou entusiata de Python antes mesmo de iniciar a faculdade, apaixonado pelo aprendizado, sou auto-didata desde que me lembro. Se quiser conhecer meu trabalho acesse o meu perfil em outras redes e acompanhe.</p>
+<p>Olá, meu nome é Giuliano Gonçalves Gomez, formado em ciência de dados em 2025, sou entusiata de Python antes mesmo de iniciar a faculdade, apaixonado pelo aprendizado, sou auto-didata desde que me lembro. Sempre buscanndo conhecimento e inovação, este é o meu objetivo.</p>
 <h2>Minhas habilidades</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height='80' width='80'/> 
